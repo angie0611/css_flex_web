@@ -1,0 +1,42 @@
+*{ padding: 0px;
+margin: 0px;
+}
+
+body
+{
+    height: 100%;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+
+body, section { 
+
+ background-color: rgb(107, 178, 202); 
+ padding: 10px;
+}
+ 
+.lenguaje
+    { display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer
+{ background-color:rgb(64, 64, 172) ;
+padding: 10px;}
+
+
+footer ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;}
+    
+
+footer img {
+    width: auto;
+height: 60px;}

@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+}
+
+header {
+    background-color: rgb(88, 86, 86);
+    padding: 8px;
+}
+
+nav ul{
+    list-style: none;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+nav ul img{
+    height: 45px;
+    width: 45px;
+}
