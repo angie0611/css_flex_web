@@ -1,0 +1,21 @@
+body {background-color: aliceblue;}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: auto;
+    
+}
+
+.caja {border: 1px; 
+background-color: rgb(99, 99, 197);
+color: azure;
+width: 120px;
+height: 120px;
+line-height: 120px;
+text-align: center;
+margin:5px;}
